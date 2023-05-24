@@ -1,0 +1,60 @@
+[
+  {
+    "key": "authurl",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Infor API URL (for token)",
+      "placeholder": "",
+      "required": true
+    }
+  },
+  {
+    "key": "queryurl",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Infor API URL (Including tenant)",
+      "placeholder": "",
+      "required": true
+    }
+  },
+  {
+    "key": "clientid",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Client ID",
+      "required": true
+    }
+  },
+  {
+    "key": "clientsecret",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Client Secret",
+      "type": "password",
+      "required": true
+    }
+  },
+  {
+    "key": "username",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Username",
+      "required": true
+    }
+  },
+  {
+    "key": "password",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Password",
+      "type": "password",
+      "required": true
+    }
+  }
+]
