@@ -1,6 +1,4 @@
 # HelloID-Conn-Prov-Target-Infor-HCM
-
-<br />
 <p align="center">
   <img src="https://www.tools4ever.nl/connector-logos/infor-logo.png">
 </p>
